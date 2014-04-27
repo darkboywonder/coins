@@ -9,4 +9,4 @@ I wrote a program that first asks the user how much change is owed and then spit
 
 Before doing any math, I converted the user's input entirely to cents (i.e., from a float to an int) to avoid tiny errors that might otherwise add up. I also didn't cast the user's input from a float to an int for fear of possibly missing cents.
 
-This program was configured for the purpose of solving one of three problems apart of problem set 1 of cs50.
+This program was configured for the purpose of solving a problem set from an EDX course.
